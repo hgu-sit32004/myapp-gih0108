@@ -14,6 +14,7 @@
 		CDD95EE3209B20E60048EEC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDD95EE1209B20E60048EEC0 /* LaunchScreen.storyboard */; };
 		CDD95EEB209B25D10048EEC0 /* CardModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD95EEA209B25D10048EEC0 /* CardModel.swift */; };
 		CDD95EED209B29040048EEC0 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD95EEC209B29040048EEC0 /* Card.swift */; };
+		CDD95EEF209B30C10048EEC0 /* CardCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD95EEE209B30C10048EEC0 /* CardCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CDD95EE4209B20E60048EEC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDD95EEA209B25D10048EEC0 /* CardModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardModel.swift; sourceTree = "<group>"; };
 		CDD95EEC209B29040048EEC0 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		CDD95EEE209B30C10048EEC0 /* CardCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				CDD95EDF209B20E60048EEC0 /* Assets.xcassets */,
 				CDD95EE1209B20E60048EEC0 /* LaunchScreen.storyboard */,
 				CDD95EE4209B20E60048EEC0 /* Info.plist */,
+				CDD95EEE209B30C10048EEC0 /* CardCollectionViewCell.swift */,
 			);
 			path = "Match App";
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				CDD95EDB209B20E60048EEC0 /* ViewController.swift in Sources */,
 				CDD95ED9209B20E60048EEC0 /* AppDelegate.swift in Sources */,
 				CDD95EEB209B25D10048EEC0 /* CardModel.swift in Sources */,
+				CDD95EEF209B30C10048EEC0 /* CardCollectionViewCell.swift in Sources */,
 				CDD95EED209B29040048EEC0 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
